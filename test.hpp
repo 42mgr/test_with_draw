@@ -6,4 +6,4 @@ class Test {
 #if DRAW
     void setNum();
 #endif
-}
+};
